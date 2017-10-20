@@ -1,2 +1,4 @@
 # lpthw
-Learn Python the Hard Way 
+Learn Python the Hard Way
+
+https://learnpythonthehardway.org/book/ 
